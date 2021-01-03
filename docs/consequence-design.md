@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is Consequence Design, anyway?
-nav_order: 1
+nav_order: 99
 ---
 # What is consequence design, anyway?
 
