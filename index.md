@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Consequence Design is a speculative future response to a post-service design world."
 permalink: /
 ---
 
