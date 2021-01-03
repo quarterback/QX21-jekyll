@@ -14,7 +14,7 @@ I've been introducing the idea of Consequence Design over the past two years. I'
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
 ---
-<!-- >
+<!-- 
 ## Getting started
 
 ### Dependencies
@@ -72,3 +72,4 @@ Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill
 ### License
 
 Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+-->
