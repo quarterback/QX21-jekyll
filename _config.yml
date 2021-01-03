@@ -1,5 +1,5 @@
-title: Consequence Design
-description: A Jekyll theme for documentation
+title: QX
+description: A place for writing about Consequence Design
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://consequencedesign.org" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -24,7 +24,7 @@ aux_links:
     - "https://ronbronson.com"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: " Built with Jekyll, Github, VSCode and served via Netlify.</a>"
+footer_content: "Built with Jekyll, Github, VSCode and served via Netlify.</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: dark
