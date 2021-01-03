@@ -3,6 +3,7 @@ layout: default
 title: Liminal UX 
 nav_order: 98
 ---
+# Ruminations on Liminal UX
 
 [Over the past few years](https://twitter.com/ronbronson/status/1168235108207419393), I’ve been thinking a lot about [liminal ](https://www.cio.com/article/3297969/the-ux-of-liminal-transient-spaces.html)experiences in user experience. Liminality defines the transitional states between experiences.&nbsp;
 
