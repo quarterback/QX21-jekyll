@@ -14,13 +14,23 @@ I've been introducing the idea of Consequence Design over the past two years. I'
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
 ---
-<!-- 
-## Getting started
 
-### Dependencies
+## What is it?
+I've written longer pieces about this, but I envision Consequence Design as somewhere near the intersection of where policy, service design and user experience meet. There's design involved, but it's a speculative design framework that seeks to interrogate the assumptions baked into what and *how* we design experiences and policy.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+### Cool, what else is there?
+I've given a few talks that aren't recorded (or weren't recorded for public consumption) but in 2020, I did a <a href="https://www.editorx.com/shaping-design/article/ron-bronson-interview-consequence-design">long interview with Oliver Lindberg on the topic of Consequence Design.</a> I also did two podcasts (<a href="https://www.youtube.com/watch?v=L9hbuPpEFb4">Technically Speaking</a> & <a href="https://thoughtfeederpod.com/podcast/service-design-and-consequences/">Thought Feeder</a>) earlier in the year that also expanded on my thinking. 
 
+### What about this book?
+So there's going to be a book in 2021 about Consequence Design. Right now, I'm going to use this site to expand on the ideas first. Much of this content will find its way into the book, but I just needed a public place to continue to bring out ideas. I spent most of 2020 speaking & researching, because I felt like there needed to be a underlying belief this was an *actual thing* and not something I was just making up. Dozens of conversations with people outside of tech/design and the "real world" have made me realize there's a contribution to the conversation that Consequence Design brings to the fore.
+
+I just need to continue expanding on the ideas. 
+
+### What kinds of topics are you thinking?
+I've been tweeting about things like friction, harm, and respecting users. Lately, I've been thinking about a quote I heard from someone that say  *"experience as an externality of service"* and I'm really enjoying unpacking that. Lots of smart people are talking about things like ethics, AI, and integrity. I appreciate their work a lot, and I want to ensure that I'm contributing to this canon in a meaningful way. 
+
+
+<!--
 ### Quick start: Use as a GitHub Pages remote theme
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
