@@ -6,7 +6,7 @@ nav_order: 98
 # Ruminations on Liminal UX
 
 [Over the past few years](https://twitter.com/ronbronson/status/1168235108207419393), I’ve been thinking a lot about [liminal ](https://www.cio.com/article/3297969/the-ux-of-liminal-transient-spaces.html)experiences in user experience. Liminality defines the transitional states between experiences.&nbsp;
-
+å
 A place where service design &amp; user experience are falling short is thinking about the areas where experiences (both experiential and transactional) and interactions that were once human to human (like cashier purchases or customer help lines) are now being delegated to screens or chatbots.&nbsp;
 ![image](https://64.media.tumblr.com/3aeda31b0be149db36d58aaac8645713/df2e36151959edcb-02/s540x810/5a2e5f46fadc2f4718f9b33f9755babbf48bc03f.png)
 
