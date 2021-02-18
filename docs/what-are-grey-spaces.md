@@ -1,7 +1,7 @@
 ---
 layout: default
-title: More on Liminal UX: Who pays for grey spaces?
-nav_order: 96
+title: The cost of grey spaces
+nav_order: 94
 ---
 # Assess the cost of liminality in service design - a primer on grey spaces
 
