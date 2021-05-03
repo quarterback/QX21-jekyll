@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The hidden cost of everything
-nav_order: 98
+nav_order: 93
 ---
 # The Hidden Cost of Everything
 
@@ -15,5 +15,8 @@ The fact that the vendor was using a third-party company known for less-than-tra
 
 I don't really care what the surreptitious arrangement is, I just know that if a person felt moved enough to CONTACT ME after getting a cash tip, their pay situation must be pretty sub-standard. What does this have to do with consequence design? Everything. 
 
-There's a sanctioned layer of substrate technology operating across customer-vendor relationships that used to be easier to make sense of. All of this sleight of hand that happens now under the guise of 'frictionless' just asks us to ignore the fact that someone is wasting their own gas, insurance and taking all of the risk to bring pizzas in the hopes they'll end the day making more than they started with, and there's no guarantee from *anyone* in the arrangement to make them whole. 
+There's a sanctioned layer of substrate technology operating across customer-vendor relationships that used to be easier to make sense of. All of this sleight of hand that happens now under the guise of 'frictionless' just asks us to ignore the fact that someone is wasting their own gas, insurance and taking all of the risk to bring pizzas in the hopes they'll end the day making more than they started with, and there's no guarantee from *anyone* in the arrangement to make them whole.
 
+These kinds of relationships will proliferate, but the technologists on the other end need to ask questions about what fairness looks like in a world where you make six-figures and equity, while the people doing the work are a car accident away from being *worse* off than before they logged into your app, lured by language that's aimed at making them believe they're empowered in the situation. 
+
+Just because someone isn't your neighbor doesn't mean you shouldn't care about their relationship with what you're building. Too often, we're not thinking about our neighbors though. When we conduct user interviews, who are we thinking about.
