@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TX: Measuring the cost of trust in service design
-nav_order: 99
+nav_order: 93
 ---
 
 How far would you walk to save $2? How about driving across town to save yourself time? When contemplating the design of services, we’re often asked to measure the return on investment for designing services, in an effort to quanitfy their value for non-designers. 
