@@ -5,9 +5,9 @@ nav_order: 100
 ---
 # The Designer's Share of the Problem
 
-**Here is a high-level transcript of my from my talk "The Designer's Share of the Problem" to IxDA Oslo on November 30, 2021 in Oslo*
+*Here is a high-level transcript of my from my talk "The Designer's Share of the Problem" to IxDA Oslo on November 30, 2021 in Oslo. It's mostly a combination of a lot of these posts, so if it seems redundant, that's why.[You can see the video of this talk, here](https://vimeo.com/651801535)*
 
-The Designers Share of the Problem
+## The Designers Share of the Problem
 So this talk is really an anti-design designer talk. It was borne out of years of frustration from hearing speakers tell people — at least in the US — that all designers are bad, that they’re contributing to a larger problem, without really implicating the larger systems at play. This means people walk away feeling pretty terrible about the talk they just listened to, and don’t feel empowered to do much about what they see as problems themselves.
 
 So this talk won’t do that. Instead, we’re going to reflect on the ways that structures and systems have failed us, because they’re built on an artifice of bad decision decisions. We’ll interrogated those decisions from the lens of the Designer’s Share of the problem.
@@ -94,3 +94,4 @@ What does any of this have to do with service design? With designing interaction
 
 Designers need to claim responsibility.  If we’re going to continue to shirk responsiblity for what users interact with, we’re going to continue being used to create experiences that demonstrable ruin the lives of people, while we benefit materially. 
 
+*Apologies for typos, this is just raw notes*
