@@ -48,7 +48,7 @@ Through Consequence Design, cartographers are equipped to:
 
 ## Learning More
 
-Dive deeper into the world of Interaction Cartography and Consequence Design through our curated exhibits and projects:
+I'm transitioning away from this site -- all of the content is also located on [consequencedesign.com](https://consequencedesign.com) but here are some other links (also available over there...)
 
 ### Exhibits & Projects
 
