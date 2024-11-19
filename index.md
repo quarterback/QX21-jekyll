@@ -4,6 +4,7 @@ title: What is it?
 nav_order: 1
 ---
 # What is Consequence Design?
+(Ron Bronson)
 
 Consequence design, as I've come to see it, is akin to the doormat in front of a house. At first glance, it's just a welcoming gesture. But when lifted, hidden complexities and previously invisible entities scuttle away from the light.
 
