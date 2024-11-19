@@ -15,44 +15,9 @@ Yet, in the mainstream, service design discussions are dominated by Post-It note
 
 It's time to delve deeper. Beyond the UX dark patterns and beyond mere digital annoyances, there's a pressing need to critically assess and rethink our systems. A tweet of mine from years back encapsulates a sentiment many share: when confronted with automated voice systems, just press '0' or demand an 'operator'. We crave genuine, human interaction.
 
-## Interaction Cartography
-
-In our journey, we've reached a point where the question arises: "What unfolds in a post-service design realm?" If every service is meticulously designed, what's the aftermath? This is where interaction cartography comes into play.
-
-Interaction cartography, a sub-discipline we've fostered under consequence design, endeavors to map and understand various touchpoints, interactions, and dynamics in a system. It's not about creating a universally perfect design. It's about understanding the complexities of various systems, from the spatial to the digital.
-
-Incorporating the tenets of consequence design into interaction cartography ensures a more ethical, transparent, and user-centric approach. [Link to detailed exploration on integrating consequence design into interaction cartography]
-
-## The Way Forward
-
-Acknowledging the problem is the first step. But are we there yet? With many still content in designing flawed services, the journey seems long. Yet, it's worth it.
-
-The antithesis to 'human-centered design' isn't institutional. It's personal, localized, and deeply rooted in values. A comprehensive understanding of how spatial and digital domains have evolved is crucial. The past may hold insights, but the future beckons a design that's genuinely inclusive and equitable.
-
-
-# Interaction Cartography: Mapping the Digital Landscape
-
-Interaction Cartography is a burgeoning interdisciplinary field, aiming to map and understand the vast intricacies of digital and spatial interactions. Unlike traditional cartography, which maps physical terrains, Interaction Cartography charts the myriad touchpoints, dynamics, and exchanges within digital and urban ecosystems.
-
-Within this expansive domain, various research methods and tools help practitioners delve deeper, ensuring ethical, transparent, and user-centric designs. One such pivotal methodology is Consequence Design.
-
-## Consequence Design: The Ethical Compass
-
-Consequence Design isn't about creating a new breed of designers. It's a critical tool for those venturing into the realms of Interaction Cartography. It serves as a lens, enabling practitioners to recognize, investigate, and mitigate design consequences that may inadvertently perpetuate inequalities or create friction for users.
-
-Through Consequence Design, cartographers are equipped to:
-- Recognize and challenge their biases.
-- Understand the broader implications of their design decisions.
-- Ensure ethical considerations are central to their work.
-- Navigate the complexities of real-world service disparities.
-
-## Learning More
-
-I'm transitioning away from this site -- all of the content is also located on [consequencedesign.com](https://consequencedesign.com) but here are some other links (also available over there...)
-
 ### Exhibits & Projects
 
-- [**Consequence Design AI**](https://consequencedesign.com/exhibits-projects/): This 2023 project uses generative AI tools to imagine scenarios around privacy, trust, harm & consequence. 
+- [**Consequence Design AI**](https://ronbronson.notion.site/012a37b4db0a412dbcfde85c769a23f7?v=569092e883644f76af15b75b24da439c&pvs=74): This 2023 project uses generative AI tools to imagine scenarios around privacy, trust, harm & consequence. 
   
 - [**A Parliament of Neighbors**](https://www.youtube.com/watch?v=dwemDtD4mTk): What does it mean to be a neighbor? I conducted an in-person and virtual exhibit at a vibrant kunsthalle at a dead mall in Portland in May 2023
   
@@ -63,5 +28,5 @@ I'm transitioning away from this site -- all of the content is also located on [
 - [**Consequence Design interview**](https://www.editorx.com/shaping-design/article/ron-bronson-interview-consequence-design): A longform interview I did for EditorX with Oliver Lindberg on Consequence Design back in the early days of these ideas.
 
 
-<em>Feel free to drop me an email at bronsonr@umich.edu, if you want to talk more about this ideas, and/or want to discuss the evolving practice or just talk about your own work and how it dovetails with any of these ideas. (Or if you're doing something cool.)</em>
+<em>Contact me via email, if you want to talk more about this ideas, and/or want to discuss the evolving practice or just talk about your own work and how it dovetails with any of these ideas. (Or if you're doing something cool.)</em>
 
