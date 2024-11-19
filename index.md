@@ -17,7 +17,7 @@ It's time to delve deeper. Beyond the UX dark patterns and beyond mere digital a
 
 ### Exhibits & Projects
 
-- [**Consequence Design AI**](https://ronbronson.notion.site/012a37b4db0a412dbcfde85c769a23f7?v=569092e883644f76af15b75b24da439c&pvs=74): This 2023 project uses generative AI tools to imagine scenarios around privacy, trust, harm & consequence. 
+- [**Consequence Design AI**](https://ronbronson.notion.site/012a37b4db0a412dbcfde85c769a23f7?v=569092e883644f76af15b75b24da439c&pvs=74): This 2023 project uses generative AI tools to imagine scenarios around privacy, trust, harm & consequence. In 2024, I printed this for an updated series called **Manipulation Engineering** to bring public awareness of the perils of our current descent into civic chaos. 
   
 - [**A Parliament of Neighbors**](https://www.youtube.com/watch?v=dwemDtD4mTk): What does it mean to be a neighbor? I conducted an in-person and virtual exhibit at a vibrant kunsthalle at a dead mall in Portland in May 2023
   
