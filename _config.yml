@@ -27,10 +27,9 @@ aux_links:
 footer_content: "Built with Jekyll, Github, VSCode and served via Netlify.</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: dark
+color_scheme: nil
 
 # Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
 ga_tracking: #
 
 plugins:
