@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@400;600;700&display=swap');
+
+/* Base Typography */
+body {
+  font-family: 'Spectral', serif;
+  font-size: 17px;
+  line-height: 1.7;
+  background-color: #f8f4ee; /* soft parchment */
+  color: #1c1c1c; /* high contrast */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: #202020;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Links */
+a {
+  color: #b0672b; /* rusty gold */
+  text-decoration: underline;
+}
+a:hover {
+  color: #8b4d20;
+  text-decoration: none;
+}
+
+/* Nav and Footer */
+.site-header, .site-footer {
+  background-color: #e2ddd5;
+  color: #222;
+  border: none;
+}
+
+.site-nav a {
+  color: #1c1c1c;
+  font-weight: 600;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #eeeae4;
+  color: #2a2a2a;
+  font-family: monospace;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #b0672b;
+  background-color: #f2ede5;
+  padding: 1rem;
+  margin: 2rem 0;
+  font-style: italic;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background: #fff;
+}
+th, td {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+}
+
+/* Accessibility: focus outlines */
+a:focus, button:focus, input:focus {
+  outline: 3px solid #b0672b;
+  outline-offset: 2px;
+}
